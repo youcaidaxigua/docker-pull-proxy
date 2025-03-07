@@ -6,3 +6,4 @@ semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/person-ai/wea
 langgenius/dify-sandbox:0.2.1 registry.cn-hangzhou.aliyuncs.com/person-ai/dify-sandbox:0.2.1
 ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/person-ai/squid:latest
 nginx:latest registry.cn-hangzhou.aliyuncs.com/person-ai/nginx:latest
+
